@@ -22,8 +22,8 @@ The table below shows the results of the analysis:
 | % of 5 Star | 52.71% | 53.4% | 52.71% |
 
 # Summary
-Bias of Vine member reviews was not present due to the consistent percentages of 5 star reviews found in the three groups. Simple rounding shows all three groups had roughly 53% of their reviews rated at 5 stars.
+Bias of Vine member reviews was not present due to the consistent percentages of 5-star reviews found in the three groups. Simple rounding shows all three groups had roughly 53% of their reviews rated at 5 stars.
 
 ### Addition Analysis to consider
-- Percentage of Vine/Non Vine reviews that were negative or below 2 stars
-- Natural Language Processing (NLP) to analyize the sentiment of each review to predict future reviews
+- Percentage of Vine/Non-Vine reviews that were negative or below 2 stars
+- Natural Language Processing (NLP) to analyze the sentiment of each review to predict future reviews
